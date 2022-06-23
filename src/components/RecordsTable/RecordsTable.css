@@ -1,0 +1,14 @@
+.RecordsTable{
+    border: 1px solid black;
+    overflow-y: auto;
+    margin: 25px;
+    height: 80vh;
+    font-size: 20px;
+}
+
+.RecordsTable table thead{
+    position: sticky;
+    top: 0;
+    background-color: #0d6efd;
+    color: white;
+}
